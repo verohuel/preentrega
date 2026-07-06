@@ -1,4 +1,4 @@
-import { agregarAlCarrito } from "./funcionesCarrito.js";
+import { agregarAlCarrito } from "./funcionescarrito.js";
 import { obtenerCarrito } from "./storage.js";
 import { actualizarContador } from "./ui.js";
 
