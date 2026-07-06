@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+    "nombre": "almacenamiento de pc",
+    "precio": 150.000,
+    "img": "img/kingston.jpg"
+    },
+    {
+    "id": "2",
+    "nombre": "almacenamiento memoria de pc",
+    "precio": 80.000,
+    "img": "img/memoria-ddr4-kingston.jpg"
+    },
+    {
+    "id": "3",
+    "nombre": "targeta grafica",
+    "precio": 450.000,
+    "img": "img/PLACA-DE-VIDEO-GIGABYTE-RTX.png"
+    },
+    {
+    "id": "4",
+    "nombre": "teclado qwerty",
+    "precio": 70.000,
+    "img": "img/teclado-mecanico-redragon.jpg"
+    }
+]
